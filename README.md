@@ -89,4 +89,4 @@ A document-based AI assistant for semantic search and knowledge retrieval.
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/ravi095112
-* LinkedIn: [Add your LinkedIn profile]
+* LinkedIn: https://www.linkedin.com/in/ravi-kumar-fullstack/
