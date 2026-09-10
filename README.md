@@ -51,6 +51,8 @@ I’m a backend engineer focused on building scalable, reliable and production-r
 **Frontend**
 
 * Vue 3
+* React
+* Angular
 
 ## ⭐ Featured Projects
 
